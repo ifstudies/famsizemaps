@@ -7,11 +7,11 @@ These maps are based on data and region outlines from IPUMS and the US Census Bu
 These maps show the percentage of women aged 25-55 who are married and have a certain number of kids.
 
 ### PUMA-level individual maps
-[PUMAS by % of women aged 25-55 who are married and have 1+ kids](maps/pumas_percentile_tiled_unfixed_choropleth_1plus_kids.html)
+[PUMAS by % of women aged 25-55 who are married and have 1+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_1plus_kids.html)
 
-[PUMAS by % of women aged 25-55 who are married and have 3+ kids](maps/pumas_percentile_tiled_unfixed_choropleth_3plus_kids.html)
+[PUMAS by % of women aged 25-55 who are married and have 3+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_3plus_kids.html)
 
-[PUMAS by % of women aged 25-55 who are married and have 5+ kids](maps/pumas_percentile_tiled_unfixed_choropleth_5plus_kids.html)
+[PUMAS by % of women aged 25-55 who are married and have 5+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_5plus_kids.html)
 
 
 ### State-level individual maps
