@@ -4,35 +4,35 @@ These maps are based on data and region outlines from IPUMS and the US Census Bu
 
 ## Individual-based maps and tables
 
-These maps and tables show the percentage of women aged 25-55 who are married and have a certain number of kids.
+These maps and tables show the percentage of adults aged 25-55 who are married and have a certain number of kids.
 
 ### PUMA-level individual data
 
 #### Maps:
-[PUMAS by % of women aged 25-55 who are married and have 1+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_1plus_kids.html)
+[PUMAS by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_1plus_kids.html)
 
-[PUMAS by % of women aged 25-55 who are married and have 3+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_3plus_kids.html)
+[PUMAS by % of adults aged 25-55 who are married and have 3+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_3plus_kids.html)
 
-[PUMAS by % of women aged 25-55 who are married and have 5+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_5plus_kids.html)
+[PUMAS by % of adults aged 25-55 who are married and have 5+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_5plus_kids.html)
 
 #### Table:
 
-[PUMAS by % of women aged 25-55 who are married and have 1+, 3+, or 5+ kids](tables/puma_family_size_microdata.html)
+[PUMAS by % of adults aged 25-55 who are married and have 1+, 3+, or 5+ kids](tables/puma_family_size_microdata.html)
 
 
 ### State-level individual data
 
 #### Maps:
 
-[States by % of women aged 25-55 who are married and have 1+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_1plus_kids.html)
+[States by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_1plus_kids.html)
 
-[States by % of women aged 25-55 who are married and have 3+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_3plus_kids.html)
+[States by % of adults aged 25-55 who are married and have 3+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_3plus_kids.html)
 
-[States by % of women aged 25-55 who are married and have 5+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_5plus_kids.html)
+[States by % of adults aged 25-55 who are married and have 5+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_5plus_kids.html)
 
 #### Table:
 
-[States by % of women aged 25-55 who are married and have 1+, 3+, or 5+ kids](tables/state_family_size_microdata.html)
+[States by % of adults aged 25-55 who are married and have 1+, 3+, or 5+ kids](tables/state_family_size_microdata.html)
 
 ## Household-based maps and tables
 
