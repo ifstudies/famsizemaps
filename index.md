@@ -83,6 +83,15 @@ These maps and tables show the percentage of households that consist of a marrie
 
 [% of US households that consist of a married couple with 1+, 3+, or 5+ kids](tables/us_family_size_estimates.html)
 
+## USGS-based map examples
+
+[PUMAS by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
+
+[States by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_states_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
+
+[MSAs by % of households that consist of a married couple and 1+ kids](maps/Estimates_msas_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
+
+[Counties by % of households that consist of a married couple and 1+ kids](maps/Estimates_counties_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
 
 ### Author:
 [Institute for Family Studies](https://ifstudies.org)
