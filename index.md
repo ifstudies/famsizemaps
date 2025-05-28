@@ -39,13 +39,18 @@ These maps and tables show the percentage of adults aged 25-55 who are married a
 These maps and tables show the percentage of households that consist of a married couple with a certain number of kids.
 
 ### State-level household-based data
+
+#### Maps:
+
 [States by % of households that consist of a married couple with 1+ kids](maps/Estimates_states_percentile_non_tiled_unfixed_choropleth_1plus_kids.html)
 
 [States by % of households that consist of a married couple with 3+ kids](maps/Estimates_states_percentile_non_tiled_unfixed_choropleth_3plus_kids.html)
 
 [States by % of households that consist of a married couple with 5+ kids](maps/Estimates_states_percentile_non_tiled_unfixed_choropleth_5plus_kids.html)
 
-[Tabular view](tables/state_family_size_estimates.html)
+#### Table:
+
+[States by % of households that consist of a married couple with 1+, 3+, or 5+ kids](tables/state_family_size_estimates.html)
 
 
 ### County-level household-based data
@@ -63,6 +68,36 @@ These maps and tables show the percentage of households that consist of a marrie
 
 [Counties with at least 50,000 residents by % of households that consist of a married couple with 1+, 3+, or 5+ kids](tables/county_larger_family_size_estimates.html)
 
+### MSA-level household-based data
+
+#### Maps:
+
+[MSAs by % of households that consist of a married couple with 1+ kids](maps/Estimates_msas_percentile_tiled_unfixed_choropleth_1plus_kids.html)
+
+[MSAs by % of households that consist of a married couple with 3+ kids](maps/Estimates_msas_percentile_tiled_unfixed_choropleth_3plus_kids.html)
+
+[MSAs by % of households that consist of a married couple with 5+ kids](maps/Estimates_msas_percentile_tiled_unfixed_choropleth_5plus_kids.html)
+
+#### Table:
+
+[MSAs by % of households that consist of a married couple with 1+, 3+, or 5+ kids](tables/msa_family_size_estimates.html)
+
+### CSA-level household-based data
+
+#### Maps:
+
+[CSAs by % of households that consist of a married couple with 1+ kids](maps/Estimates_csas_percentile_tiled_unfixed_choropleth_1plus_kids.html)
+
+[CSAs by % of households that consist of a married couple with 3+ kids](maps/Estimates_csas_percentile_tiled_unfixed_choropleth_3plus_kids.html)
+
+[CSAs by % of households that consist of a married couple with 5+ kids](maps/Estimates_csas_percentile_tiled_unfixed_choropleth_5plus_kids.html)
+
+
+#### Table:
+
+[CSAs by % of households that consist of a married couple with 1+, 3+, or 5+ kids](tables/csa_family_size_estimates.html)
+
+
 ### Zip-level household-based data
 
 #### Maps:
@@ -73,7 +108,7 @@ These maps and tables show the percentage of households that consist of a marrie
 
 [Zip codes by % of households that consist of a married couple with 5+ kids](maps/Estimates_zip_codes_percentile_tiled_unfixed_choropleth_5plus_kids.html)
 
-#### Table
+#### Tables:
 
 [Zip codes by % of households that consist of a married couple with 1+, 3+, or 5+ kids](tables/zip_family_size_estimates.html)
 
@@ -83,15 +118,6 @@ These maps and tables show the percentage of households that consist of a marrie
 
 [% of US households that consist of a married couple with 1+, 3+, or 5+ kids](tables/us_family_size_estimates.html)
 
-## USGS-based map examples
-
-[PUMAS by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_pumas_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
-
-[States by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_states_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
-
-[MSAs by % of households that consist of a married couple and 1+ kids](maps/Estimates_msas_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
-
-[Counties by % of households that consist of a married couple and 1+ kids](maps/Estimates_counties_percentile_tiled_unfixed_choropleth_1plus_kids_usgs.html)
 
 ### Author:
 [Institute for Family Studies](https://ifstudies.org)
