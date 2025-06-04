@@ -24,11 +24,11 @@ These maps and tables show the percentage of adults aged 25-55 who are married a
 
 #### Maps:
 
-[States by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_1plus_kids.html)
+[States by % of adults aged 25-55 who are married and have 1+ kids](maps/Microdata_states_percentile_tiled_unfixed_choropleth_1plus_kids.html)
 
-[States by % of adults aged 25-55 who are married and have 3+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_3plus_kids.html)
+[States by % of adults aged 25-55 who are married and have 3+ kids](maps/Microdata_states_percentile_tiled_unfixed_choropleth_3plus_kids.html)
 
-[States by % of adults aged 25-55 who are married and have 5+ kids](maps/Microdata_states_percentile_non_tiled_unfixed_choropleth_5plus_kids.html)
+[States by % of adults aged 25-55 who are married and have 5+ kids](maps/Microdata_states_percentile_tiled_unfixed_choropleth_5plus_kids.html)
 
 #### Table:
 
@@ -42,11 +42,11 @@ These maps and tables show the percentage of households that consist of a marrie
 
 #### Maps:
 
-[States by % of households that consist of a married couple with 1+ kids](maps/Estimates_states_percentile_non_tiled_unfixed_choropleth_1plus_kids.html)
+[States by % of households that consist of a married couple with 1+ kids](maps/Estimates_states_percentile_tiled_unfixed_choropleth_1plus_kids.html)
 
-[States by % of households that consist of a married couple with 3+ kids](maps/Estimates_states_percentile_non_tiled_unfixed_choropleth_3plus_kids.html)
+[States by % of households that consist of a married couple with 3+ kids](maps/Estimates_states_percentile_tiled_unfixed_choropleth_3plus_kids.html)
 
-[States by % of households that consist of a married couple with 5+ kids](maps/Estimates_states_percentile_non_tiled_unfixed_choropleth_5plus_kids.html)
+[States by % of households that consist of a married couple with 5+ kids](maps/Estimates_states_percentile_tiled_unfixed_choropleth_5plus_kids.html)
 
 #### Table:
 
